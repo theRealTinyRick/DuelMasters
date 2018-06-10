@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: cc202cd191b31e344ada643633406365
+  - enabled: 1
+    path: Assets/Scenes/DeckBuilder.unity
+    guid: ecde0bb58870a0249bd51a425162a2fe
+  - enabled: 1
+    path: Assets/Scenes/Duel.unity
+    guid: f310ddf45d6cf634abcedd21ba952c58
+  m_configObjects: {}
